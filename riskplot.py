@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""plot.py: A class to plot charts where certain quantiles like 5%, 95% are indicated, as a risk tool"""
+"""riskplot.py: A class to plot charts where certain quantiles like 5%, 95% are indicated, as a risk tool"""
 
 __author__ = "Hua Zhao"
 
