@@ -1,2 +1,2 @@
-# riskmgmt
- A workplace to store widgets for risk management
+# utils
+ A workplace to store little widgets
